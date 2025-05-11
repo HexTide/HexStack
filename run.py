@@ -5,7 +5,7 @@ import os
 sys.path.append(os.path.abspath("../HexRoot"))
 sys.path.append(os.path.abspath("../HexLib"))
 sys.path.append(os.path.abspath("../HexDropper-Lite"))
-# sys.path.append(os.path.abspath("../HexClick"))
+sys.path.append(os.path.abspath("../HexClick"))
 # sys.path.append(os.path.abspath("../HexTrackr"))
 
 from hexstack.stack import HexStack
